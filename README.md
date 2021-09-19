@@ -7,5 +7,5 @@ This is a Google Colab Notebook with Jdownloader & Rclone, which can download an
 
 Click on the "Open in Colab" Button & Press Ctrl+F9
 
-<a href="https://colab.research.google.com/github/cheems/Any-file-to-Google-Drive/blob/master/Any_file_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/cheems/Any-file-to-Google-Drive/blob/master/Any_file_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
