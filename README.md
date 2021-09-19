@@ -3,7 +3,7 @@ This is a Google Colab Notebook with Jdownloader & Rclone, which can download an
 
 <b>Features:</b>
 1. Jdownloader as web interface
-2. Ability to mount Google Drive with rClone
+2. Ability to mount Google Drive with Rclone
 
 Click on the "Open in Colab" Button & Press Ctrl+F9
 
